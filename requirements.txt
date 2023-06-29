@@ -1,0 +1,2 @@
+spacy==3.5.3
+spacy-transformers==1.2.3
